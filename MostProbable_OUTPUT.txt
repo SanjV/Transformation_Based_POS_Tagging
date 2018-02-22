@@ -1,0 +1,13 @@
+Word		Most Probable Tag
+
+The			DT
+president			NN
+wants			VBZ
+to			TO
+control			NN
+the			DT
+board			NN
+'s			POS
+control			NN
+
+Most Probable Tag Error Rate: 0.1111111111111111
